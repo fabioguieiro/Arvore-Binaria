@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1501732102 source:c:\users\fabio\desktop\tp3\arvore_bin\arvore_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_bin.h"
+
+1501732102 c:\users\fabio\desktop\tp3\arvore_bin\arvore_bin.h
+
+1501731431 source:c:\users\fabio\desktop\tp3\arvore_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_bin.h"
+
+1501732102 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\arvore_binaria\arvore_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_bin.h"
+
+1501732102 c:\users\fabio\onedrive\documentos\ufop\aplicações\c\arvore_binaria\arvore_bin.h
+
+1501732163 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore_bin.h"
+
